@@ -1,0 +1,55 @@
+.container{
+  
+    background-color: white;
+    background-size: 200px;
+
+}
+
+
+
+.list{
+
+   position: relative;
+   display: flex;
+   list-style-type: none;
+   margin-left: 140px;margin-top: -10px;
+   
+
+}
+.list-item{
+   
+    padding-left: 30px;
+}
+.logofit img{
+
+    position: relative;
+    top: 14px;left: 30px;
+}
+.button-group{
+
+    position: relative;
+    left: 700px;top: -40px;
+}
+h1.heading-text{
+  
+    position: relative;
+    left: 30px;top: 60px;
+    font-weight: 25px;
+    font-size: 40px;
+
+}
+p1.description{
+    
+ 
+    
+
+}
+.backimg img{
+     position: absolute;
+     height: 35%;width: 25%;
+     left: 400px;top: 200px;
+}
+.nav-button btn{
+
+    background-color: rgb(96, 96, 224);
+}
